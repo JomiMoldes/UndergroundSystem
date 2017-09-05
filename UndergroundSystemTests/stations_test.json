@@ -1,0 +1,226 @@
+{
+	"lines": [
+		{
+			"id":1,
+			"stationsOrder":[1,2,3,4,5,6,7,8,9,10],
+			"name":"Blue line",
+			"color":[0,0,255]
+		},
+		{
+			"id":2,
+			"stationsOrder":[1,11,12,13,14,15,16,17,18,19],
+			"name":"Black line",
+			"color":[0,0,0]
+		},
+		{
+			"id":3,
+			"stationsOrder":[20,21,22,23,24,25,26],
+			"name":"Yellow line",
+			"color":[255,255,0]
+		},
+		{
+			"id":4,
+			"stationsOrder":[27,28,29,4,30,31,20,32,16],
+			"name":"Green line",
+			"color":[0,128,0]
+		},
+		{
+			"id":5,
+			"stationsOrder":[33,34,35,9,36,37,24,38,19],
+			"name":"Red line",
+			"color":[255,0,0]
+		}
+	],
+	"stations": [
+		{
+			"id":1,
+			"name":"East end",
+			"lines":[1,2]
+		},
+		{
+			"id":2,
+			"name":"Post stand",
+			"lines":[1]
+		},
+		{
+			"id":3,
+			"name":"Footbal stadium",
+			"lines":[1]
+		},
+		{
+			"id":4,
+			"name":"City Centre",
+			"lines":[1,4]
+		},
+		{
+			"id":5,
+			"name":"Peter park",
+			"lines":[1]
+		},
+		{
+			"id":6,
+			"name":"Maximus",
+			"lines":[1]
+		},
+		{
+			"id":7,
+			"name":"Rocky street",
+			"lines":[1]
+		},
+		{
+			"id":8,
+			"name":"Boxers street",
+			"lines":[1]
+		},
+		{
+			"id":9,
+			"name":"Boxing avenue",
+			"lines":[1,5]
+		},
+		{
+			"id":10,
+			"name":"West end",
+			"lines":[1]
+		},
+		{
+			"id":11,
+			"name":"Gotham street",
+			"lines":[2]
+		},
+		{
+			"id":12,
+			"name":"Batman street",
+			"lines":[2]
+		},
+		{
+			"id":13,
+			"name":"Jokers street",
+			"lines":[2]
+		},
+		{
+			"id":14,
+			"name":"Hawkins street",
+			"lines":[2]
+		},
+		{
+			"id":15,
+			"name":"Da Vinci lane",
+			"lines":[2]
+		},
+		{
+			"id":16,
+			"name":"South Park",
+			"lines":[2,4]
+		},
+		{
+			"id":17,
+			"name":"Newton bath tub",
+			"lines":[2]
+		},
+		{
+			"id":18,
+			"name":"Einstein lane",
+			"lines":[2]
+		},
+		{
+			"id":19,
+			"name":"Neo lane",
+			"lines":[2,5]
+		},
+		{
+			"id":20,
+			"name":"Green cross",
+			"lines":[3,4]
+		},
+		{
+			"id":21,
+			"name":"Orange street",
+			"lines":[3]
+		},
+		{
+			"id":22,
+			"name":"Silk board",
+			"lines":[3]
+		},
+		{
+			"id":23,
+			"name":"Snake park",
+			"lines":[3]
+		},
+		{
+			"id":24,
+			"name":"Morpheus",
+			"lines":[3,5]
+		},
+		{
+			"id":25,
+			"name":"Little street",
+			"lines":[3]
+		},
+		{
+			"id":26,
+			"name":"Cricket grounds",
+			"lines":[3]
+		},
+		{
+			"id":27,
+			"name":"North Park",
+			"lines":[4]
+		},
+		{
+			"id":28,
+			"name":"Sheldon street",
+			"lines":[4]
+		},
+		{
+			"id":29,
+			"name":"Greenland",
+			"lines":[4]
+		},
+		{
+			"id":30,
+			"name":"Stadium house",
+			"lines":[4]
+		},
+		{
+			"id":31,
+			"name":"Green house",
+			"lines":[4]
+		},
+		{
+			"id":32,
+			"name":"South pole",
+			"lines":[4]
+		},
+		{
+			"id":33,
+			"name":"Matrix stand",
+			"lines":[5]
+		},
+		{
+			"id":34,
+			"name":"Keymakers lane",
+			"lines":[5]
+		},
+		{
+			"id":35,
+			"name":"Oracle lane",
+			"lines":[5]
+		},
+		{
+			"id":36,
+			"name":"Cypher lane",
+			"lines":[5]
+		},
+		{
+			"id":37,
+			"name":"Smith lane",
+			"lines":[5]
+		},
+		{
+			"id":38,
+			"name":"Trinity lane",
+			"lines":[5]
+		}
+	]	
+}
